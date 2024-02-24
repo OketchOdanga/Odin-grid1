@@ -9,4 +9,4 @@ I used the following grid properties as per the given instructions:
  - static grid tracks sizes.
 ## my output
 
-[](./Screenshot%20%20grid%201.png)
+[taller-view](./Screenshot%20%20grid%201.png)
